@@ -87,6 +87,9 @@ Bookstore.Data
 Клиент
   │ REST
   ▼
+API Gateway
+  │ REST
+  ▼
 Order Service
   ├── gRPC ──► Cart Service
   ├── gRPC ──► Customer Service
