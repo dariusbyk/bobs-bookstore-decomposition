@@ -20,7 +20,7 @@ Bob’s Used Books состоит из нескольких логических
 - `Bookstore.Cdk` — описание инфраструктуры AWS;
 - `Bookstore.Domain.Tests` — тесты бизнес-логики.
 
-![](C:/Users/User/AppData/Roaming/marktext/images/71b68dec109f29794d1ce6e6eebe8c781569dcbd.png)
+![](images/image_2026-09-23_22-11-40.png)
 
 Основные бизнес-области приложения:
 
@@ -121,6 +121,6 @@ Order Service
 
 У нас получается следующая диаграмма взаимодействия микросервисов:
 
-![](C:\Users\User\Downloads\ChatGPT%20Image%2023%20сент.%202026%20г.,%2021_54_50.png)
+![](images/diagram.png)
 
 
